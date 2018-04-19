@@ -1,0 +1,14 @@
+{
+  "name": "labwebsite",
+  "version": "1.0.0",
+  "description": "a lebWebsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify-mongoose": "^3.0.0"
+  }
+}
